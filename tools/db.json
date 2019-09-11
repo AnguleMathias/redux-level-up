@@ -77,6 +77,14 @@
       "category": "Test cat",
       "createdAt": 1568208119321,
       "slug": "test-title"
+    },
+    {
+      "id": 12,
+      "title": "Test Title",
+      "authorId": 1,
+      "category": "234",
+      "createdAt": 1568208762169,
+      "slug": "test-title"
     }
   ],
   "authors": [
