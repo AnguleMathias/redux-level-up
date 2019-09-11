@@ -72,9 +72,9 @@
     },
     {
       "id": 11,
-      "title": "Test Title",
+      "title": "Test Title 1",
       "authorId": 2,
-      "category": "Test cat",
+      "category": "Test category",
       "createdAt": 1568208119321,
       "slug": "test-title"
     },
